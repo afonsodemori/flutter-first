@@ -7,3 +7,5 @@ This is based on the workshop [Your first Flutter app](https://codelabs.develope
 ### Read more
 
 * [Code formatting](https://docs.flutter.dev/tools/formatting)
+* [Generics](https://dart.dev/language/generics)
+* [Introduction to Dart](https://dart.dev/language)
